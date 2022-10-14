@@ -1,7 +1,3 @@
-venv
-.DS_Store
-pass-git.txt
-
 # Django #
 *.log
 *.pot
