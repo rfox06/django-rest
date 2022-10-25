@@ -100,8 +100,6 @@ venv.bak/
 # sftp configuration file
 sftp-config.json
 
-#pass-git.txt
-pass-git.txt
 
 # Package control specific files Package
 Control.last-run
@@ -133,7 +131,8 @@ db copy.sqlite3
 static/
 
 #news
-lynx_rest/settings.txt
-lynx_rest/settings
+lynx_rest/lynx_rest/settings.txt
+lynx_rest/lynx_rest/settings
 
-
+#pass-git.txt
+pass-git.txt
